@@ -1,13 +1,7 @@
 # Alien Invasion
 A simple old school arcade shooter game implemented with Python3.
 
-Dependencies:
-
--python
-
--pygame
-
-&nbsp;
+# Setup
 
 Installation:
 
